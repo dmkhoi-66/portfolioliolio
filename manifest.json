@@ -1,12 +1,12 @@
 {
-  "name": "Tony Batts",
-  "short_name": "Tony",
+  "name": "Khoi Doan",
+  "short_name": "Khoi",
   "theme_color": "#1B242F",
   "background_color": "#f5f5f5",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://www.tonybatts.com/todo",
-  "description": "Portfolio for Tony Batts",
+  "start_url": "https://dmkhoi-66.github.io/",
+  "description": "Portfolio of Khoi Doan",
   "orientation": "any",
   "icons": [
     {
